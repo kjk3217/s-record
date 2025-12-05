@@ -1,0 +1,5 @@
+{
+  "name": "AI 생기부 도우미",
+  "description": "중학교 교사를 위한 생활기록부 작성 도우미 및 AI 문장 생성 서비스",
+  "requestFramePermissions": []
+}
